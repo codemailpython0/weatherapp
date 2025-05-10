@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/media/kiran-kumar/E868DCE868DCB692/python codes/weatherapp/venv/bin/python3" "$0" "$@"
-' '''
+#!/media/kiran-kumar/E868DCE868DCB692/python_codes/weatherapp/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
